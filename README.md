@@ -11,7 +11,8 @@
 
 - HTML
 - CSS/SCSS
-- Bootstrap/Tailwind
+- Bootstrap
+- Tailwind
 
 
 _Practicing:_ 
