@@ -18,6 +18,7 @@ _Practicing:_
 - JavaScript
 - Typescript
 - React
+- Node.js
 
 
 _Other:_
