@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning and improving my skills in JavaScript
 - 👯 I’m looking to collaborate on frontend projects, web/app
-- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/michelle-kristine-narverud-11052715b/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/michelle-kristine-narverud-11052715b/)
 
 
 
